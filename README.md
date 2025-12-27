@@ -287,4 +287,4 @@ To request updated data or report data quality issues, please open an issue in t
 
 ---
 
-**Questions?** Open an issue in the repository or contact the project team.
+**Questions?** Open an issue in the repository or contact the project team. Yashvi Nagda, Priyanka Nath and Lordina 
