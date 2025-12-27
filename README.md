@@ -10,7 +10,7 @@ This folder contains the complete dataset used for analyzing H1B visa wage patte
 
 **Dataset Size**: 561,000+ H1B visa applications  
 **File Format**: Microsoft Excel (.xlsx)  
-**Data Period**: 2023-2024 (or specify your actual period)  
+**Data Period**: 2023-2024   
 **Source**: U.S. Department of Labor H1B disclosure data
 
 ---
