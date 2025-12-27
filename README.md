@@ -278,18 +278,6 @@ To request updated data or report data quality issues, please open an issue in t
 
 ---
 
-## Citation
-
-If you use this dataset in your research or analysis, please cite:
-
-```
-H1B Visa Wage Analysis Dataset. 
-Hult International Business School. 
-Based on U.S. Department of Labor OFLC H1B disclosure data.
-```
-
----
-
 ## Additional Resources
 
 - **OFLC Performance Data**: https://www.dol.gov/agencies/eta/foreign-labor/performance
