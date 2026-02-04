@@ -4,6 +4,10 @@
 
 ---
 
+<img width="1546" height="771" alt="image" src="https://github.com/user-attachments/assets/96c3cc81-4dbc-4203-a4d9-3afeb7381132" />
+
+
+
 ## Overview
 
 This folder contains the complete dataset used for analyzing H1B visa wage patterns across U.S. states, industries, and visa classes.
